@@ -1,0 +1,7 @@
+.container h1 { margin-bottom: 60px; }
+.container ul { list-style: none; margin-left: 0; padding-left: 0;}
+.container ul li { margin-bottom: 50px;}
+.container ul li a { color: inherit;}
+.container ul li a:hover { text-decoration: none;}
+.container ul li h2 { border-left: 2px solid #0000C2; padding-left: 5px; color: #101010;}
+.container ul li h2:hover { border-left: 2px solid #122b40; color: #122b40;}
